@@ -2,6 +2,10 @@
 
 A modern task management web application built with Angular. This project demonstrates core Angular concepts such as components, templates, services, data binding, event handling, state management, and reusable UI design through a clean and responsive interface.
 
+## 🌐 Live Demo
+
+[View Live Project](https://angular-essentials-components-templ.vercel.app/)
+
 ## 🚀 Features
 
 * Manage tasks for multiple team members
